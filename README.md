@@ -1,6 +1,3 @@
-Meu primeiro sistema no GIT
-
-Alterando depois do git reset --hard
+Meu primeiro sistema no GIT (alterado e atualizado!)
 
 
-Alteração feita no master
