@@ -1,0 +1,1 @@
+Só criei o arquivo JS pra praticar!
